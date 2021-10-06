@@ -28,7 +28,7 @@
 
 7. Recursive Least Squares Filter
    - https://youtu.be/eMyW9L7QOJw
-   - 작성중
+   - [https://github.com/phykn/recursive-filter/blob/main/07_recursive_least_squares_filter.ipynb](https://github.com/phykn/recursive-filter/blob/main/07_recursive_least_squares_filter.ipynb)
 
 ### Reference
 [1] 칼만 필터는 어렵지 않아, 김성필, 한빛아카데미 (2019)
