@@ -12,11 +12,11 @@
 3. 선형 칼만 필터 (Linear Kalman Filter)
    - 칼만 필터는 어렵지 않아 68 ~ 99 page
    - [https://github.com/phykn/recursive-filter/blob/main/03_linear_kalman_filter_1.ipynb](https://github.com/phykn/recursive-filter/blob/main/03_linear_kalman_filter_1.ipynb)
-   - [https://github.com/phykn/recursive-filter/blob/main/04_linear_kalman_filter_2.ipynb](https://github.com/phykn/recursive-filter/blob/main/04_linear_kalman_filter_2.ipynb)
+   - [https://github.com/phykn/recursive-filter/blob/main/03_linear_kalman_filter_2.ipynb](https://github.com/phykn/recursive-filter/blob/main/03_linear_kalman_filter_2.ipynb)
 
 4. 확장 칼만 필터 (Extended Kalman Filter)
    - 칼만 필터는 어렵지 않아 144 ~ 161 page
-   - [https://github.com/phykn/recursive-filter/blob/main/05_extended_kalman_filter.ipynb](https://github.com/phykn/recursive-filter/blob/main/05_extended_kalman_filter.ipynb)
+   - [https://github.com/phykn/recursive-filter/blob/main/04_extended_kalman_filter.ipynb](https://github.com/phykn/recursive-filter/blob/main/04_extended_kalman_filter.ipynb)
 
 5. 무향 칼만 필터 (Unscented Kalman Filter)
    - 칼만 필터는 어렵지 않아 170 ~ 181 page
