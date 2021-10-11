@@ -25,7 +25,7 @@
 
 6. 파티클 필터 (Particle Filter)
    - 칼만 필터는 어렵지 않아 196 ~ 207 page
-   - 작성중
+   - [https://github.com/phykn/recursive-filter/blob/main/06_particle_filter.ipynb](https://github.com/phykn/recursive-filter/blob/main/06_particle_filter.ipynb)
 
 7. Recursive Least Squares Filter
    - https://youtu.be/eMyW9L7QOJw
