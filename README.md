@@ -28,7 +28,7 @@
    - [https://github.com/phykn/recursive-filter/blob/main/06_particle_filter.ipynb](https://github.com/phykn/recursive-filter/blob/main/06_particle_filter.ipynb)
 
 7. Recursive Least Squares Filter
-   - [Lecture 3: Recursive Least Squares with Forgetting Factor](https://youtu.be/eMyW9L7QOJw)
+   - [Recursive Least Squares with Forgetting Factor](https://youtu.be/eMyW9L7QOJw)
    - [https://github.com/phykn/recursive-filter/blob/main/07_recursive_least_squares_filter.ipynb](https://github.com/phykn/recursive-filter/blob/main/07_recursive_least_squares_filter.ipynb)
 
 ### Reference
