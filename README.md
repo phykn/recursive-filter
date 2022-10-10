@@ -32,5 +32,5 @@
    - [https://github.com/phykn/recursive-filter/blob/main/07_recursive_least_squares_filter.ipynb](https://github.com/phykn/recursive-filter/blob/main/07_recursive_least_squares_filter.ipynb)
 
 ### Reference
-[1] [칼만 필터는 어렵지 않아](https://books.google.com/books/about/%EC%B9%BC%EB%A7%8C_%ED%95%84%ED%84%B0%EB%8A%94_%EC%96%B4%EB%A0%B5%EC%A7%80_%EC%95%8A%EC%95%84_with_M.html?id=hMTyDwAAQBAJ), 김성필, 한빛아카데미 (2019)
+[1] [칼만 필터는 어렵지 않아](https://books.google.com/books/about/%EC%B9%BC%EB%A7%8C_%ED%95%84%ED%84%B0%EB%8A%94_%EC%96%B4%EB%A0%B5%EC%A7%80_%EC%95%8A%EC%95%84_with_M.html?id=hMTyDwAAQBAJ), 김성필, 한빛아카데미 (2019)  
 [2] [dLabRoboticsMIT](https://www.youtube.com/user/dLabRoboticsMIT), Youtube Channel
